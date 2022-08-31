@@ -1,0 +1,15 @@
+h3 {
+    /* text-align: left; */
+    font-size: 40px;
+}
+p {
+    margin-left: 50px;
+    font-size: 30px;
+}
+pre {
+    font-size: 40px;
+}
+div {
+    line-height: 80px;
+    /* display: inline-block; */
+}

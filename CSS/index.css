@@ -1,0 +1,88 @@
+
+
+
+
+img {
+    
+    transition: all .3s ease;
+    /* opacity: 0.25; */
+    display: inline-block;
+    /* opacity: 0.5; */
+    
+}
+#img_z{
+    /* margin-top: -8vw; */
+    height: 32vw;
+    width: 32vw;
+}
+#login {
+    float: right;
+    margin-right: -20vw;
+    margin-top: 2vw;
+    width: 6vw;
+}
+#mail {
+    float: right;
+    margin-right: -10vw;
+    margin-top: 2vw;
+    width: 6vw;
+}
+img:hover {
+    transform: scale(1.05);
+}
+
+
+
+
+aside {
+    /* position: fixed; */
+    margin-top: -10px;
+    margin-left: -1vw;
+    float: left;
+    background: #218580;
+    width: 16vw;
+    padding-right: 2.5%;
+    height: 150vh;
+    color: #fff;
+    /* border-left: 15px solid #025167; */
+    border-right: 1vw solid #025167;
+}
+
+
+
+aside a {
+    color: #fff;
+    font-size: 2vw;
+    padding-left: 10px;
+    text-align: center;
+    display: block;
+    transition: all .1s ease;
+    margin-top: 1vw;
+}
+
+aside h2 {
+    margin: 0;
+    margin-top: 7vw;
+    margin-left: 1vw;
+    font-size: 2.3vw;
+    text-align: center;
+}
+
+a:hover {
+    text-decoration: none;
+    transform: scale(1.05);
+}
+main {
+    /* position: fixed; */
+    height: 100.1%;
+    width: 60%;
+    margin-top: -10px;
+    margin-left: 20vw;
+    margin-right: -10px;
+    
+
+}
+
+
+
+

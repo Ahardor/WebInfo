@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(102, 201, 179);
+}
+figure {
+    width: 300px;
+    display: inline-block;
+    
+}
+figcaption {
+    text-align: center;
+}

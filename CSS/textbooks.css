@@ -1,0 +1,24 @@
+
+h1 {
+    text-align: center;
+}
+
+
+figure {
+    width: 150px;
+    display: inline-block;
+    
+    
+}
+figcaption {
+    text-align: center;
+}
+a {
+    margin-left: 4vw;
+    /* font-size: 1vw; */
+    text-decoration: none;
+}
+img {
+    width: 12vw;
+    height: 15vw;
+}

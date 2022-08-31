@@ -1,0 +1,3 @@
+class TEST:
+    __var = 'sky'
+print(TEST.__var)

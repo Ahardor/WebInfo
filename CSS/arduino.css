@@ -1,0 +1,11 @@
+body {
+    background-color: #bb8034;
+}
+figure {
+    width: 300px;
+    display: inline-block;
+    
+}
+figcaption {
+    text-align: center;
+}

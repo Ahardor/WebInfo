@@ -1,0 +1,32 @@
+
+figure {
+    width: 300px;
+    display: inline-block;
+    
+}
+figcaption {
+    text-align: center;
+}
+a figure {
+    width: 150px;
+}
+
+
+button:hover {
+    background-color: rgb(111, 179, 167);
+    transform: scale(1.05);
+}
+
+a {
+    transition: all .3s ease;
+    font-size: 20px;
+}
+a:hover {
+    transform: scale(1.05);
+    text-decoration: none;
+}
+h2 {
+    /* font-size: 20px; */
+}
+
+
